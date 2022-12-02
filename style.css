@@ -1,0 +1,133 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+header{
+
+    background: whitesmoke;
+    
+}
+
+.Navbaar{
+
+
+    background-color: #fcf6bd;
+    border-radius: 0px 0px 20px 20px;
+
+    box-shadow: 5px 5px 4px #ffba08;
+    
+}
+
+.Navbaar a{
+
+    color: black;
+    font-weight: 600;
+}
+
+
+.header_img{
+
+    background-image: url('background1.jpg');
+
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+    height: 720px;
+    
+}
+
+
+.headerset{
+
+    padding-top: 200px;
+    box-sizing: border-box;
+}
+
+.headerset h2{
+
+    font-size: 42px;
+}
+
+.headerset h1{
+
+    font-size: 48px;
+    font-weight: bold;
+}
+
+
+.OurService {
+
+    padding: 100px 0px 60px;
+    height: 900px;
+}
+
+
+.OurService h1{
+
+   font-weight: bold;
+   
+}
+
+.OurService p{
+
+    margin-bottom: 50px;
+}
+
+.imgsetting{
+
+    margin: 80px 0px;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+
+
+.fa-shopping-cart{
+
+    margin-top: 20px;
+}
+
+.fa-duotone{
+
+    margin-top: 20px;
+}
+
+.fa-video{
+
+    margin-top: 20px;
+}
+
+.fa-stamp{
+
+    margin-top: 20px;
+}
+
+.ourteam{
+    
+    height: 800px;
+    padding: 100px 0px 60px;
+    width: 100%;
+    background-color: #fdc500;
+}
+
+
+.ourteam h1{
+
+    font-weight: bold;
+}
+
+
+.ourteam .row{
+
+    margin-top: 60px;
+}
+
+.Footer{
+   
+    background-color: rgb(21, 20, 20);
+}
+
